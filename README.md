@@ -38,12 +38,6 @@
 
 ---
 
-
-### <summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="Ramnath's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RamnathKumar181&show_icons=true&hide_border=true" />
-
-
 [website]: https://ramnathkumar181.github.io/
 [linkedin]: https://www.linkedin.com/in/ramnathkumar181/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
